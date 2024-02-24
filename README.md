@@ -1,1 +1,1 @@
-# Image-processing-app
+This C++ image processing app offers a suite of features for enhancing and manipulating photos. Users can adjust brightness and contrast, apply gamma correction, and perform image convolution for advanced filtering. Additionally, the app provides tools to draw circles, lines and rectangles directly onto images, enabling both basic edits and complex modifications with ease.
